@@ -1,0 +1,1 @@
+g++ -I inc -o main.exe ./src/*
